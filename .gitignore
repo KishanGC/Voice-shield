@@ -1,0 +1,14 @@
+﻿.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.db
+*.log
+node_modules/
+dist/
+release_in_the_wild/
+backend/data/
+reports/
